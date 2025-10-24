@@ -1,0 +1,767 @@
+{
+  "liability": {
+    "meaning": "Being legally responsible for something.",
+    "punishment": "May require payment of damages or compensation.",
+    "immediate_action": "Consult a lawyer and review contracts carefully."
+  },
+  "penalty": {
+    "meaning": "A punishment imposed for breaking a law.",
+    "punishment": "Fines, imprisonment, or community service depending on the law.",
+    "immediate_action": "Check the applicable law section and comply to avoid escalation."
+  },
+  "contract": {
+    "meaning": "A legally binding agreement between parties.",
+    "punishment": "Breach of contract may result in monetary compensation.",
+    "immediate_action": "Ensure all contract terms are met and keep documentation."
+  },
+  "arbitration": {
+    "meaning": "Dispute resolution outside court.",
+    "punishment": "Failure to comply with arbitration award can lead to court enforcement.",
+    "immediate_action": "Participate in arbitration and keep records of proceedings."
+  },
+  "tort": {
+    "meaning": "A civil wrong causing harm or loss.",
+    "punishment": "Compensation for damages may be ordered by court.",
+    "immediate_action": "Notify insurance and legal advisor immediately."
+  },
+  "indemnity": {
+    "meaning": "Protection against financial loss.",
+    "punishment": "Failure to honor indemnity clause may result in litigation.",
+    "immediate_action": "Check insurance or indemnity clauses and act promptly."
+  },
+  "jurisdiction": {
+    "meaning": "Authority of a court to hear a case.",
+    "punishment": "Filing in wrong jurisdiction may dismiss case or delay.",
+    "immediate_action": "Verify correct court or authority before filing."
+  },
+  "negligence": {
+    "meaning": "Failure to take reasonable care causing damage.",
+    "punishment": "Can lead to civil liability and compensation claims.",
+    "immediate_action": "Document evidence and contact legal counsel immediately."
+  },
+  "embezzlement": {
+    "meaning": "Fraudulent taking of property by someone in trust.",
+    "punishment": "Imprisonment and fines.",
+    "immediate_action": "Report to authorities immediately and secure evidence."
+  },
+  "breach_of_confidentiality": {
+    "meaning": "Unauthorized disclosure of confidential information.",
+    "punishment": "Civil suits, fines, and potential criminal charges.",
+    "immediate_action": "Notify affected parties and legal team immediately."
+  },
+  "cybercrime": {
+    "meaning": "Illegal activities using computers or networks.",
+    "punishment": "Imprisonment and heavy fines.",
+    "immediate_action": "Report to cybercrime authorities immediately."
+  },
+  "fraud": {
+    "meaning": "Intentional deception for personal gain.",
+    "punishment": "Imprisonment, fines, and restitution.",
+    "immediate_action": "Document evidence and report to authorities."
+  },
+  "intellectual_property_violation": {
+    "meaning": "Unauthorized use of copyrighted or patented material.",
+    "punishment": "Fines, injunctions, or imprisonment.",
+    "immediate_action": "Cease usage and consult IP attorney immediately."
+  },
+  "tax_evasion": {
+    "meaning": "Illegal avoidance of taxes.",
+    "punishment": "Fines, penalties, or imprisonment.",
+    "immediate_action": "Report to tax authorities and rectify filings immediately."
+  },
+  "labor_law_violation": {
+    "meaning": "Violation of employee rights or labor regulations.",
+    "punishment": "Fines and legal enforcement.",
+    "immediate_action": "Correct violations and consult labor lawyer."
+  },
+  "environmental_violation": {
+    "meaning": "Breach of environmental laws.",
+    "punishment": "Fines, closure, and legal action.",
+    "immediate_action": "Stop activities, notify authorities, and mitigate damage."
+  },
+  "bribery": {
+    "meaning": "Offering or accepting undue advantage.",
+    "punishment": "Imprisonment and fines.",
+    "immediate_action": "Report incident and consult legal counsel."
+  },
+  "defamation": {
+    "meaning": "Making false statements harming someone’s reputation.",
+    "punishment": "Civil damages or criminal charges.",
+    "immediate_action": "Cease statements and seek legal advice immediately."
+  },
+  "money_laundering": {
+    "meaning": "Concealing proceeds of illegal activities.",
+    "punishment": "Imprisonment and heavy fines.",
+    "immediate_action": "Report suspicious transactions and consult legal team."
+  },
+  "product_liability": {
+    "meaning": "Responsibility for defective or harmful products.",
+    "punishment": "Compensation claims, fines, or recalls.",
+    "immediate_action": "Notify authorities, recall products, and inform consumers."
+  },
+  "unauthorized_access": {
+    "meaning": "Gaining access to systems or data without permission.",
+    "punishment": "Imprisonment and fines.",
+    "immediate_action": "Report breach and secure systems immediately."
+  },
+  "copyright_infringement": {
+    "meaning": "Violation of copyright law.",
+    "punishment": "Fines, injunctions, or imprisonment.",
+    "immediate_action": "Cease infringing activity and consult IP lawyer."
+  },
+  "patent_infringement": {
+    "meaning": "Unauthorized use of patented invention.",
+    "punishment": "Fines and legal action.",
+    "immediate_action": "Stop production and consult patent attorney."
+  },
+  "sexual_harassment": {
+    "meaning": "Unwanted sexual conduct in workplace or public.",
+    "punishment": "Fines, termination, or criminal action.",
+    "immediate_action": "Report to HR or authorities immediately."
+  },
+  "child_labour_violation": {
+    "meaning": "Employing children below legal age.",
+    "punishment": "Fines, imprisonment, and legal action.",
+    "immediate_action": "Stop employment and notify authorities."
+  },
+  "data_breach": {
+    "meaning": "Unauthorized disclosure of personal data.",
+    "punishment": "Fines and regulatory penalties.",
+    "immediate_action": "Notify affected parties and secure systems."
+  },
+  "antitrust_violation": {
+    "meaning": "Engaging in anti-competitive practices.",
+    "punishment": "Fines, penalties, and injunctions.",
+    "immediate_action": "Cease practices and consult legal counsel."
+  },
+  "embezzlement_of_funds": {
+    "meaning": "Misappropriation of funds for personal gain.",
+    "punishment": "Imprisonment and repayment of funds.",
+    "immediate_action": "Report and recover misappropriated funds."
+  },
+  "criminal_conspiracy": {
+    "meaning": "Agreement to commit a crime.",
+    "punishment": "Imprisonment and fines.",
+    "immediate_action": "Report to authorities immediately."
+  },
+  "assault": {
+    "meaning": "Physical attack on another person.",
+    "punishment": "Imprisonment and fines.",
+    "immediate_action": "Seek medical aid and report to police."
+  },
+  "theft": {
+    "meaning": "Taking someone else's property illegally.",
+    "punishment": "Imprisonment and restitution.",
+    "immediate_action": "Report to police and secure property."
+  },
+  "contract_breach": {
+    "meaning": "Violation of contract terms.",
+    "punishment": "Monetary compensation or legal action.",
+    "immediate_action": "Notify counterparty and document breach."
+  },
+  "fraudulent_claim": {
+    "meaning": "False or deceptive claim for benefit.",
+    "punishment": "Fines, restitution, or imprisonment.",
+    "immediate_action": "Investigate and report claim immediately."
+  },
+  "insider_trading": {
+    "meaning": "Trading based on confidential company information.",
+    "punishment": "Fines, imprisonment, and penalties.",
+    "immediate_action": "Report to regulatory authorities."
+  },
+  "unauthorized_distribution": {
+    "meaning": "Distributing materials without consent.",
+    "punishment": "Fines or legal action.",
+    "immediate_action": "Cease distribution and notify affected parties."
+  },
+  "violence_at_workplace": {
+    "meaning": "Physical or verbal violence at workplace.",
+    "punishment": "Fines, termination, or criminal charges.",
+    "immediate_action": "Report immediately to HR or authorities."
+  },
+  "health_safety_violation": {
+    "meaning": "Neglecting workplace safety standards.",
+    "punishment": "Fines, penalties, or closure.",
+    "immediate_action": "Correct violations and report to authorities."
+  },
+  "environmental_pollution": {
+    "meaning": "Harmful emission or waste disposal.",
+    "punishment": "Fines, remediation, and legal action.",
+    "immediate_action": "Stop activity, mitigate damage, and notify authorities."
+  },
+  "illegal_trade": {
+    "meaning": "Selling prohibited or restricted goods.",
+    "punishment": "Imprisonment, fines, and confiscation.",
+    "immediate_action": "Stop trade and report to authorities."
+  },
+  "cyber_fraud": {
+    "meaning": "Deception using electronic communications.",
+    "punishment": "Imprisonment and fines.",
+    "immediate_action": "Report to cybercrime unit and preserve evidence."
+  },
+  "misrepresentation": {
+    "meaning": "False statement to gain advantage.",
+    "punishment": "Civil liability or criminal charges.",
+    "immediate_action": "Correct misinformation and notify affected parties."
+  },
+  "illegal_immigration": {
+    "meaning": "Entering or staying in a country unlawfully.",
+    "punishment": "Deportation or imprisonment.",
+    "immediate_action": "Contact immigration authorities immediately."
+  },
+  "violating_court_order": {
+    "meaning": "Not complying with legal order.",
+    "punishment": "Contempt of court, fines, or imprisonment.",
+    "immediate_action": "Comply immediately and consult lawyer."
+  },
+  "illegal_contract": {
+    "meaning": "Agreement violating laws or public policy.",
+    "punishment": "Contract may be void and legal action possible.",
+    "immediate_action": "Stop execution and seek legal guidance."
+  },
+  "arson": {
+    "meaning": "Deliberately setting fire to property.",
+    "punishment": "Imprisonment and fines.",
+    "immediate_action": "Report to fire and police authorities immediately."
+  },
+  "battery": {
+    "meaning": "Intentional physical harm to another person.",
+    "punishment": "Imprisonment and fines.",
+    "immediate_action": "Seek medical attention and report to police."
+  },
+  "cyberstalking": {
+    "meaning": "Using electronic communication to harass someone.",
+    "punishment": "Imprisonment and fines.",
+    "immediate_action": "Document evidence and report to authorities."
+  },
+  "identity_theft": {
+    "meaning": "Stealing someone's personal information.",
+    "punishment": "Imprisonment and fines.",
+    "immediate_action": "Report to authorities and secure accounts."
+  },
+  "kidnapping": {
+    "meaning": "Unlawfully taking and detaining someone.",
+    "punishment": "Long-term imprisonment.",
+    "immediate_action": "Report to police immediately."
+  },
+  "manslaughter": {
+    "meaning": "Unintentional killing due to negligence.",
+    "punishment": "Imprisonment and fines.",
+    "immediate_action": "Notify authorities and preserve evidence."
+  },
+  "murder": {
+    "meaning": "Intentional unlawful killing of a person.",
+    "punishment": "Life imprisonment or capital punishment depending on law.",
+    "immediate_action": "Report to authorities immediately."
+  },
+  "rape": {
+    "meaning": "Non-consensual sexual activity.",
+    "punishment": "Imprisonment and fines.",
+    "immediate_action": "Seek immediate help, preserve evidence, report to police."
+  },
+  "sexual_exploitation": {
+    "meaning": "Taking advantage of someone sexually for gain.",
+    "punishment": "Imprisonment, fines.",
+    "immediate_action": "Report immediately to authorities."
+  },
+  "shoplifting": {
+    "meaning": "Stealing goods from a store.",
+    "punishment": "Fines, restitution, possible jail.",
+    "immediate_action": "Report to store authorities and rectify."
+  },
+  "smuggling": {
+    "meaning": "Illegal import or export of goods.",
+    "punishment": "Imprisonment, fines, confiscation.",
+    "immediate_action": "Notify customs or law enforcement immediately."
+  },
+  "stalking": {
+    "meaning": "Repeated unwanted attention causing fear.",
+    "punishment": "Fines, restraining orders, imprisonment.",
+    "immediate_action": "Document incidents, report to authorities."
+  },
+  "tax_fraud": {
+    "meaning": "Intentionally falsifying tax information.",
+    "punishment": "Fines, imprisonment, penalties.",
+    "immediate_action": "Report errors, cooperate with authorities."
+  },
+  "vandalism": {
+    "meaning": "Deliberate destruction or damage to property.",
+    "punishment": "Fines, restitution, community service.",
+    "immediate_action": "Report to police, document damage."
+  },
+  "wire_fraud": {
+    "meaning": "Using electronic communications to defraud.",
+    "punishment": "Imprisonment and fines.",
+    "immediate_action": "Preserve evidence and report to authorities."
+  },
+  "hacking": {
+    "meaning": "Unauthorized intrusion into computer systems.",
+    "punishment": "Imprisonment, fines, civil penalties.",
+    "immediate_action": "Secure systems, report breach immediately."
+  },
+  "blackmail": {
+    "meaning": "Threatening to reveal information for gain.",
+    "punishment": "Imprisonment and fines.",
+    "immediate_action": "Document threat, report to authorities."
+  },
+  "extortion": {
+    "meaning": "Obtaining something through force or threats.",
+    "punishment": "Imprisonment and fines.",
+    "immediate_action": "Notify law enforcement immediately."
+  },
+  "forgery": {
+    "meaning": "Falsifying documents for gain.",
+    "punishment": "Imprisonment, fines.",
+    "immediate_action": "Report forgery and preserve evidence."
+  },
+  "perjury": {
+    "meaning": "Lying under oath in court.",
+    "punishment": "Imprisonment, fines.",
+    "immediate_action": "Report immediately if you witness it."
+  },
+  "public_nuisance": {
+    "meaning": "Act affecting public rights or safety.",
+    "punishment": "Fines, penalties, injunctions.",
+    "immediate_action": "Notify authorities to stop activity."
+  },
+  "reckless_driving": {
+    "meaning": "Driving carelessly risking others' safety.",
+    "punishment": "Fines, license suspension, imprisonment in serious cases.",
+    "immediate_action": "Report accidents, take legal advice."
+  },
+  "smear_campaign": {
+    "meaning": "Spreading false information to damage reputation.",
+    "punishment": "Civil lawsuits, fines.",
+    "immediate_action": "Document false claims, seek legal advice."
+  },
+  "drug_possession": {
+    "meaning": "Having illegal drugs.",
+    "punishment": "Fines, imprisonment.",
+    "immediate_action": "Surrender to authorities, seek legal counsel."
+  },
+  "drug_trafficking": {
+    "meaning": "Selling or distributing illegal drugs.",
+    "punishment": "Long-term imprisonment, fines.",
+    "immediate_action": "Report to authorities immediately."
+  },
+  "illegal_arms_trade": {
+    "meaning": "Trading firearms unlawfully.",
+    "punishment": "Imprisonment, fines, confiscation.",
+    "immediate_action": "Report to authorities immediately."
+  },
+  "insurance_fraud": {
+    "meaning": "Making false insurance claims.",
+    "punishment": "Fines, imprisonment, restitution.",
+    "immediate_action": "Investigate and report fraudulent claim."
+  },
+  "insider_info_disclosure": {
+    "meaning": "Leaking confidential company info.",
+    "punishment": "Fines, imprisonment, civil suits.",
+    "immediate_action": "Report to compliance/legal team."
+  },
+  "illegal_pollution": {
+    "meaning": "Releasing pollutants beyond legal limits.",
+    "punishment": "Fines, cleanup mandates, legal action.",
+    "immediate_action": "Stop activity and notify authorities."
+  },
+  "market_manipulation": {
+    "meaning": "Artificially affecting stock or commodity prices.",
+    "punishment": "Fines, imprisonment, penalties.",
+    "immediate_action": "Report to regulatory authorities."
+  },
+  "counterfeiting": {
+    "meaning": "Creating fake money or goods.",
+    "punishment": "Imprisonment, fines, confiscation.",
+    "immediate_action": "Report to authorities immediately."
+  },
+  "obstruction_of_justice": {
+    "meaning": "Interfering with legal investigations.",
+    "punishment": "Imprisonment, fines.",
+    "immediate_action": "Avoid obstruction, report any violations."
+  },
+  "illegal_surveillance": {
+    "meaning": "Monitoring someone without consent.",
+    "punishment": "Fines, imprisonment, legal action.",
+    "immediate_action": "Stop surveillance, report violations."
+  },
+  "hate_crime": {
+    "meaning": "Crime motivated by bias or prejudice.",
+    "punishment": "Imprisonment, fines.",
+    "immediate_action": "Report to authorities immediately."
+  },
+  "human_trafficking": {
+    "meaning": "Trading humans for exploitation.",
+    "punishment": "Long-term imprisonment and fines.",
+    "immediate_action": "Report to authorities immediately."
+  },
+  "kidnapping_for_ransom": {
+    "meaning": "Abduction to demand money or goods.",
+    "punishment": "Imprisonment and fines.",
+    "immediate_action": "Report to authorities immediately."
+  },
+  "money_counterfeiting": {
+    "meaning": "Producing fake currency.",
+    "punishment": "Imprisonment, fines, confiscation.",
+    "immediate_action": "Report to authorities immediately."
+  },
+  "piracy": {
+    "meaning": "Illegal reproduction or distribution of media.",
+    "punishment": "Fines, civil suits, imprisonment.",
+    "immediate_action": "Cease activity, notify rights holder."
+  },
+  "racketeering": {
+    "meaning": "Organized criminal activity for profit.",
+    "punishment": "Imprisonment, fines, asset forfeiture.",
+    "immediate_action": "Report to authorities immediately."
+  },
+  "riot": {
+    "meaning": "Violent public disturbance.",
+    "punishment": "Imprisonment, fines.",
+    "immediate_action": "Avoid participation, report violence."
+  },
+  "slander": {
+    "meaning": "False spoken statement damaging reputation.",
+    "punishment": "Civil lawsuit, fines.",
+    "immediate_action": "Document slander and seek legal advice."
+  },
+  "libel": {
+    "meaning": "False written statement harming reputation.",
+    "punishment": "Civil lawsuit, fines.",
+    "immediate_action": "Document evidence and consult lawyer."
+  },
+  "smuggling_of_humans": {
+    "meaning": "Transporting people illegally.",
+    "punishment": "Imprisonment and fines.",
+    "immediate_action": "Report to authorities immediately."
+  },
+  "violating_intellectual_property_rights": {
+    "meaning": "Unauthorized use of IP rights.",
+    "punishment": "Fines, legal action, injunctions.",
+    "immediate_action": "Cease usage and consult legal counsel."
+  },
+  "illegal_gambling": {
+    "meaning": "Participating in unlicensed gambling.",
+    "punishment": "Fines and imprisonment.",
+    "immediate_action": "Stop activity and report to authorities."
+  },
+  "unauthorized_use_of_land": {
+    "meaning": "Using land without legal rights.",
+    "punishment": "Fines, eviction, legal action.",
+    "immediate_action": "Cease usage and consult legal counsel."
+  },
+  "illegal_mining": {
+    "meaning": "Mining without proper permissions.",
+    "punishment": "Fines, closure, legal action.",
+    "immediate_action": "Stop mining and notify authorities."
+  },
+  "smuggling_of_drugs": {
+    "meaning": "Illegal transport of narcotics.",
+    "punishment": "Long-term imprisonment, fines.",
+    "immediate_action": "Report to authorities immediately."
+  },
+  "illegal_export_import": {
+    "meaning": "Trading goods without authorization.",
+    "punishment": "Fines, imprisonment, confiscation.",
+    "immediate_action": "Report to customs or authorities immediately."
+  },
+  "abuse_of_power": {
+    "meaning": "Using authority for personal gain or unfair advantage.",
+    "punishment": "Impeachment, fines, or imprisonment.",
+    "immediate_action": "Document incidents and report to oversight authorities."
+  },
+  "accessory_to_crime": {
+    "meaning": "Helping or facilitating a crime.",
+    "punishment": "Imprisonment, fines.",
+    "immediate_action": "Report involvement to authorities immediately."
+  },
+  "adultery": {
+    "meaning": "Voluntary sexual intercourse with someone other than spouse.",
+    "punishment": "Divorce, fines, or imprisonment depending on jurisdiction.",
+    "immediate_action": "Seek legal advice regarding marital rights."
+  },
+  "aggravated_assault": {
+    "meaning": "Assault causing serious injury or with a weapon.",
+    "punishment": "Imprisonment, fines.",
+    "immediate_action": "Report to police immediately."
+  },
+  "arbitrary_detention": {
+    "meaning": "Detaining someone without legal authority.",
+    "punishment": "Civil rights lawsuit, compensation.",
+    "immediate_action": "Contact lawyer and file complaint."
+  },
+  "assisting_suicide": {
+    "meaning": "Helping someone to commit suicide.",
+    "punishment": "Imprisonment, fines.",
+    "immediate_action": "Report to authorities immediately."
+  },
+  "attempted_murder": {
+    "meaning": "Trying to unlawfully kill someone.",
+    "punishment": "Long-term imprisonment.",
+    "immediate_action": "Report to authorities immediately."
+  },
+  "bigamy": {
+    "meaning": "Being married to more than one person simultaneously.",
+    "punishment": "Fines, imprisonment, annulment.",
+    "immediate_action": "Verify marital status and consult legal counsel."
+  },
+  "black_marketing": {
+    "meaning": "Illegal selling at higher price than market rate.",
+    "punishment": "Fines, imprisonment, confiscation.",
+    "immediate_action": "Report to authorities immediately."
+  },
+  "blockade": {
+    "meaning": "Using force to prevent passage or access.",
+    "punishment": "Imprisonment, fines.",
+    "immediate_action": "Report to authorities, avoid involvement."
+  },
+  "bomb_threat": {
+    "meaning": "Threatening to detonate explosives.",
+    "punishment": "Imprisonment, fines.",
+    "immediate_action": "Notify police and evacuate area."
+  },
+  "bribing_public_official": {
+    "meaning": "Offering benefits to influence official decisions.",
+    "punishment": "Imprisonment, fines.",
+    "immediate_action": "Report to anti-corruption authorities."
+  },
+  "child_abuse": {
+    "meaning": "Harm or mistreatment of a child.",
+    "punishment": "Imprisonment, fines, social services intervention.",
+    "immediate_action": "Report immediately to child protection authorities."
+  },
+  "coercion": {
+    "meaning": "Forcing someone to act against their will.",
+    "punishment": "Imprisonment, fines.",
+    "immediate_action": "Document incident and report authorities."
+  },
+  "collusion": {
+    "meaning": "Secret agreement for illegal or dishonest purposes.",
+    "punishment": "Fines, imprisonment, civil penalties.",
+    "immediate_action": "Report to authorities or compliance team."
+  },
+  "computer_crime": {
+    "meaning": "Illegal acts using computers or networks.",
+    "punishment": "Imprisonment, fines.",
+    "immediate_action": "Report immediately and preserve evidence."
+  },
+  "contempt_of_court": {
+    "meaning": "Disobedience or disrespect to court orders.",
+    "punishment": "Fines, imprisonment.",
+    "immediate_action": "Comply immediately and seek legal counsel."
+  },
+  "copyright_violation": {
+    "meaning": "Using copyrighted material without permission.",
+    "punishment": "Fines, injunctions, civil or criminal liability.",
+    "immediate_action": "Cease usage and notify rights holder."
+  },
+  "corruption": {
+    "meaning": "Dishonest or fraudulent conduct by officials.",
+    "punishment": "Fines, imprisonment, removal from office.",
+    "immediate_action": "Report to anti-corruption authorities."
+  },
+  "counterfeit_goods": {
+    "meaning": "Producing or selling fake products.",
+    "punishment": "Fines, imprisonment, confiscation.",
+    "immediate_action": "Stop sale and notify authorities."
+  },
+  "credit_card_fraud": {
+    "meaning": "Illegal use of someone’s credit card information.",
+    "punishment": "Imprisonment, fines, restitution.",
+    "immediate_action": "Report to bank and authorities immediately."
+  },
+  "criminal_neglect": {
+    "meaning": "Failure to perform legal duty causing harm.",
+    "punishment": "Fines, imprisonment.",
+    "immediate_action": "Document situation and seek legal advice."
+  },
+  "criminal_trespass": {
+    "meaning": "Entering property without consent.",
+    "punishment": "Fines, imprisonment, removal.",
+    "immediate_action": "Report incident and avoid confrontation."
+  },
+  "cyber_espionage": {
+    "meaning": "Stealing confidential information using computers.",
+    "punishment": "Imprisonment, fines, civil penalties.",
+    "immediate_action": "Report breach and secure systems."
+  },
+  "defrauding_investors": {
+    "meaning": "Misleading investors for financial gain.",
+    "punishment": "Imprisonment, fines, restitution.",
+    "immediate_action": "Report to regulatory authorities."
+  },
+  "domestic_violence": {
+    "meaning": "Physical, emotional, or sexual abuse within family.",
+    "punishment": "Imprisonment, fines, protective orders.",
+    "immediate_action": "Report immediately and seek safety."
+  },
+  "drug_distribution": {
+    "meaning": "Selling or supplying illegal drugs.",
+    "punishment": "Long-term imprisonment, fines.",
+    "immediate_action": "Report to authorities immediately."
+  },
+  "embezzling_government_funds": {
+    "meaning": "Misappropriating public money.",
+    "punishment": "Imprisonment, fines, restitution.",
+    "immediate_action": "Report to anti-corruption agencies."
+  },
+  "environmental_degradation": {
+    "meaning": "Causing serious harm to the environment.",
+    "punishment": "Fines, cleanup orders, imprisonment.",
+    "immediate_action": "Stop activity and notify authorities."
+  },
+  "espionage": {
+    "meaning": "Spying on a government or organization illegally.",
+    "punishment": "Imprisonment, fines, life sentences in severe cases.",
+    "immediate_action": "Report to authorities immediately."
+  },
+  "evasion_of_law": {
+    "meaning": "Actively avoiding legal obligations.",
+    "punishment": "Fines, imprisonment, penalties.",
+    "immediate_action": "Rectify actions and notify authorities."
+  },
+  "extreme_negligence": {
+    "meaning": "Gross carelessness causing serious harm.",
+    "punishment": "Fines, imprisonment, compensation.",
+    "immediate_action": "Document incident and consult lawyer."
+  },
+  "false_imprisonment": {
+    "meaning": "Unlawfully detaining someone against their will.",
+    "punishment": "Fines, imprisonment, civil suits.",
+    "immediate_action": "Report immediately to authorities."
+  },
+  "falsifying_records": {
+    "meaning": "Altering official documents dishonestly.",
+    "punishment": "Fines, imprisonment.",
+    "immediate_action": "Notify authorities and preserve evidence."
+  },
+  "financial_fraud": {
+    "meaning": "Deceptive financial practices for gain.",
+    "punishment": "Fines, restitution, imprisonment.",
+    "immediate_action": "Report to financial regulators immediately."
+  },
+  "forbidden_trade": {
+    "meaning": "Trading banned or restricted items.",
+    "punishment": "Imprisonment, fines, confiscation.",
+    "immediate_action": "Stop activity and notify authorities."
+  },
+  "harassment": {
+    "meaning": "Repeated behavior causing distress or fear.",
+    "punishment": "Fines, restraining orders, imprisonment.",
+    "immediate_action": "Document incidents and report authorities."
+  },
+  "illegal_assembly": {
+    "meaning": "Gathering without permission violating law.",
+    "punishment": "Fines, imprisonment.",
+    "immediate_action": "Disperse and notify authorities if required."
+  },
+  "illegal_protest": {
+    "meaning": "Demonstration violating legal regulations.",
+    "punishment": "Fines, imprisonment.",
+    "immediate_action": "Follow legal procedures or report incident."
+  },
+  "identity_fraud": {
+    "meaning": "Using another person’s identity illegally.",
+    "punishment": "Imprisonment, fines, restitution.",
+    "immediate_action": "Report and secure identity documents."
+  },
+  "illegal_occupation": {
+    "meaning": "Occupying land/property without legal rights.",
+    "punishment": "Fines, eviction, legal action.",
+    "immediate_action": "Cease occupation and consult legal counsel."
+  },
+  "illegal_possession_of_weapon": {
+    "meaning": "Holding weapons without authorization.",
+    "punishment": "Fines, imprisonment, confiscation.",
+    "immediate_action": "Surrender weapon and report to authorities."
+  },
+  "illegal_reproduction": {
+    "meaning": "Copying protected materials unlawfully.",
+    "punishment": "Fines, imprisonment, civil suits.",
+    "immediate_action": "Stop activity and notify rights holders."
+  },
+  "intimidation": {
+    "meaning": "Threatening someone to influence actions.",
+    "punishment": "Fines, imprisonment.",
+    "immediate_action": "Document threat and report authorities."
+  },
+  "internet_fraud": {
+    "meaning": "Fraud conducted online.",
+    "punishment": "Fines, imprisonment, restitution.",
+    "immediate_action": "Report to cybercrime authorities immediately."
+  },
+  "kidnapping_of_child": {
+    "meaning": "Abducting a minor unlawfully.",
+    "punishment": "Long-term imprisonment, fines.",
+    "immediate_action": "Report to police and child protection services."
+  },
+  "labor_rights_violation": {
+    "meaning": "Breach of employee legal protections.",
+    "punishment": "Fines, legal enforcement.",
+    "immediate_action": "Correct violations and consult labor lawyer."
+  },
+  "land_grabbing": {
+    "meaning": "Unlawful seizure of land.",
+    "punishment": "Fines, imprisonment, restitution.",
+    "immediate_action": "Report and seek legal remedy."
+  },
+  "larceny": {
+    "meaning": "Theft of property with intent to steal.",
+    "punishment": "Fines, imprisonment, restitution.",
+    "immediate_action": "Report to authorities immediately."
+  },
+  "manslaughter_by_negligence": {
+    "meaning": "Killing due to gross negligence.",
+    "punishment": "Imprisonment, fines, compensation.",
+    "immediate_action": "Report incident and preserve evidence."
+  },
+  "misuse_of_public_funds": {
+    "meaning": "Using government money for personal benefit.",
+    "punishment": "Imprisonment, fines, restitution.",
+    "immediate_action": "Report to anti-corruption agencies."
+  },
+  "obstructing_police": {
+    "meaning": "Interfering with police work.",
+    "punishment": "Fines, imprisonment.",
+    "immediate_action": "Avoid interference and comply with authorities."
+  },
+  "offensive_weapons": {
+    "meaning": "Possession of dangerous weapons illegally.",
+    "punishment": "Fines, imprisonment, confiscation.",
+    "immediate_action": "Surrender weapons and notify authorities."
+  },
+  "online_harassment": {
+    "meaning": "Harassing someone via digital platforms.",
+    "punishment": "Fines, restraining orders, imprisonment.",
+    "immediate_action": "Document evidence and report authorities."
+  },
+  "organized_crime": {
+    "meaning": "Criminal activity by a structured group.",
+    "punishment": "Imprisonment, fines, asset forfeiture.",
+    "immediate_action": "Report to authorities immediately."
+  },
+  "perverting_course_of_justice": {
+    "meaning": "Interfering with legal proceedings dishonestly.",
+    "punishment": "Fines, imprisonment.",
+    "immediate_action": "Avoid interference, report violations."
+  },
+  "polluting_waterways": {
+    "meaning": "Illegal contamination of rivers, lakes, or oceans.",
+    "punishment": "Fines, cleanup mandates, imprisonment.",
+    "immediate_action": "Stop activity and report to environmental authorities."
+  },
+  "poaching": {
+    "meaning": "Hunting protected animals illegally.",
+    "punishment": "Fines, imprisonment, confiscation.",
+    "immediate_action": "Report to wildlife authorities."
+  },
+  "property_damage": {
+    "meaning": "Intentional or reckless destruction of property.",
+    "punishment": "Fines, restitution, imprisonment.",
+    "immediate_action": "Document damage and report authorities."
+  },
+  "racketeering_in_business": {
+    "meaning": "Illegal business operations for profit.",
+    "punishment": "Fines, imprisonment, asset forfeiture.",
+    "immediate_action": "Report to authorities immediately."
+  }
+}
