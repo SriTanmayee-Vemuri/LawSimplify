@@ -2,6 +2,7 @@
   "name": "lawsimplify",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://your-SriTanmayee-Vemuri.github.io/LawSimplify",
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^7.0.1",
     "@fortawesome/free-solid-svg-icons": "^7.0.1",
@@ -15,6 +16,7 @@
     "dotenv": "^17.2.2",
     "express": "^5.1.0",
     "firebase": "^12.4.0",
+    "gh-pages": "^6.3.0",
     "lucide-react": "^0.544.0",
     "mammoth": "^1.11.0",
     "multer": "^2.0.2",
@@ -32,6 +34,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },

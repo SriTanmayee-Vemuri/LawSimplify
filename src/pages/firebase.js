@@ -1,24 +1,19 @@
-// src/firebase.js
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB8tOMfkhCD67Gply5Sew-oZy0E-MXc6Oc",
-  authDomain: "lawsimplify-a6e76.firebaseapp.com",
-  projectId: "lawsimplify-a6e76",
-  storageBucket: "lawsimplify-a6e76.firebasestorage.app",
-  messagingSenderId: "1069987068145",
-  appId: "1:1069987068145:web:9244d00b1f3a8db404d150",
-  measurementId: "G-SLH22H7NRQ"
+  apiKey: process.env.REACT_APP_FIREBASE_API_KEY,
+  authDomain: process.env.REACT_APP_FIREBASE_AUTH_DOMAIN,
+  projectId: process.env.REACT_APP_FIREBASE_PROJECT_ID,
+  storageBucket: process.env.REACT_APP_FIREBASE_STORAGE_BUCKET,
+  messagingSenderId: process.env.REACT_APP_FIREBASE_MESSAGING_SENDER_ID,
+  appId: process.env.REACT_APP_FIREBASE_APP_ID,
+  measurementId: process.env.REACT_APP_FIREBASE_MEASUREMENT_ID,
 };
 
-// ✅ Initialize Firebase
 const app = initializeApp(firebaseConfig);
-
-// ✅ Initialize Auth & Firestore
 const auth = getAuth(app);
 const db = getFirestore(app);
 
-// ✅ Export them properly
 export { auth, db };
