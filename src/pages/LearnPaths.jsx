@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { Briefcase, Layers, BookOpen, ShieldCheck, Users, Home, Globe, CloudRain, UserCheck, Percent, Plane, Heart, Film, Trophy, Anchor, Gavel, Zap, Truck, Shield, Smile } from "lucide-react";
+import { Briefcase, Layers, BookOpen, ShieldCheck, Users, Home, Globe, CloudRain, UserCheck, Percent, Plane, Heart, Film, Trophy, Anchor, Gavel, Zap, Truck, Smile } from "lucide-react";
 
 const LawPage = () => {
     const [search, setSearch] = useState("");

@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import { HelpCircle } from "lucide-react";
 const faqs = [
     {
         question: "How can I file an FIR?",

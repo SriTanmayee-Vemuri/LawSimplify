@@ -11,7 +11,6 @@ import {
   FaHandshake,
   FaLightbulb,
   FaBuilding,
-  FaGlobe,
   FaGraduationCap,
   FaClock,
   FaPen,
